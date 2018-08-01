@@ -44,7 +44,7 @@ import React from 'react';
 import Dropdown from 'react-minimal-dropdown';
 
 // or import and use the components directly:
-// import { Dropdown, Trigger, Content } from 'react-minimal dropdown'
+// import { Dropdown, Trigger, Content } from 'react-minimal-dropdown'
 
 export const Example = () => {
   return (
